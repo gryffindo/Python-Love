@@ -1,1 +1,1 @@
-# Python-Love
+My very first python project using PythonTurtle. to run this code just make sure you have python installed and run this command in your terminal `pip install PythonTurtle`. Then run the code .
